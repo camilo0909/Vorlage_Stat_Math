@@ -1,10 +1,6 @@
 # MathDept
 Beamer theme for the Department of Mathematics at the University of Oslo
 
-Available on [Overleaf](https://www.overleaf.com/latex/templates/uio-math-department-beamer-theme/zywjpxdgmpzf).
-
-![Image of first slide](https://i.imgur.com/ckfzelX.png)
-
 ## Section page
 The command `\SectionPage` inserts a `[NoFrameNumbering, plain]` frame
 with grey background issuing the `\sectionpage` command.
