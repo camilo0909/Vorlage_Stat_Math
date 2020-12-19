@@ -42,7 +42,7 @@
 \subsection{Structur of decision problems}
 
 \begin{frame}{Structur of decision problems}
-	A decision problem is given by the tripel $(\mathcal{D})$
+	A decision problem is given by the tripel $(\mathcal{D}, \Theta, \)$
 	\begin{itemize}
 			\item
 	Set $\mathcal{D}$ with $d \in \mathcal{D}$ denotes our \textit{decisions} or \textit{actions}

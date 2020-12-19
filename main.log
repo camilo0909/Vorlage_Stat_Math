@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.19)  19 DEC 2020 01:47
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.19)  19 DEC 2020 14:57
 entering extended mode
 **./main.tex
 (main.tex
@@ -2564,7 +2564,7 @@ LaTeX Font Info:    Font shape `OML/neohellenic/m/n' will be
 (Font)              scaled to size 14.70007pt on input line 25.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <12> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 25.
-<MathDept-images/MathDept-angel1.jpg, id=44, 978.65625pt x 210.7875pt>
+<MathDept-images/MathDept-angel1.jpg, id=48, 978.65625pt x 210.7875pt>
 File: MathDept-images/MathDept-angel1.jpg Graphic file (type jpg)
 <use MathDept-images/MathDept-angel1.jpg>
 Package pdftex.def Info: MathDept-images/MathDept-angel1.jpg  used on input lin
@@ -2633,7 +2633,12 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 
 [4
 
-] [5
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[] 
+ []
+
+[5
 
 ]
 Overfull \hbox (1.272pt too wide) has occurred while \output is active
@@ -2642,28 +2647,16 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 
 [6
 
-]
-Overfull \hbox (1.272pt too wide) has occurred while \output is active
-[] 
- []
-
-[7
+] [7
 
 ]
-<MathDept-images/MathDept-apollon.pdf, id=114, 142.5325pt x 142.5325pt>
-File: MathDept-images/MathDept-apollon.pdf Graphic file (type pdf)
-<use MathDept-images/MathDept-apollon.pdf>
-Package pdftex.def Info: MathDept-images/MathDept-apollon.pdf  used on input li
-ne 162.
-(pdftex.def)             Requested size: 109.2597pt x 109.25882pt.
-
 Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [] 
  []
 
 [8
 
- <./MathDept-images/MathDept-apollon.pdf>]
+]
 Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [] 
  []
@@ -2671,10 +2664,11 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [9
 
 ]
+<MathDept-images/MathDept-apollon.pdf, id=131, 142.5325pt x 142.5325pt>
 File: MathDept-images/MathDept-apollon.pdf Graphic file (type pdf)
 <use MathDept-images/MathDept-apollon.pdf>
 Package pdftex.def Info: MathDept-images/MathDept-apollon.pdf  used on input li
-ne 162.
+ne 192.
 (pdftex.def)             Requested size: 109.2597pt x 109.25882pt.
 
 Overfull \hbox (1.272pt too wide) has occurred while \output is active
@@ -2683,7 +2677,7 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 
 [10
 
-]
+ <./MathDept-images/MathDept-apollon.pdf>]
 Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [] 
  []
@@ -2691,6 +2685,12 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [11
 
 ]
+File: MathDept-images/MathDept-apollon.pdf Graphic file (type pdf)
+<use MathDept-images/MathDept-apollon.pdf>
+Package pdftex.def Info: MathDept-images/MathDept-apollon.pdf  used on input li
+ne 192.
+(pdftex.def)             Requested size: 109.2597pt x 109.25882pt.
+
 Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [] 
  []
@@ -2698,16 +2698,30 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [12
 
 ]
-LaTeX Font Info:    Font shape `OML/neohellenic/m/n' will be
-(Font)              scaled to size 6.12503pt on input line 209.
-LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
-(Font)              Font shape `T1/phv/m/sl' tried instead on input line 209.
-
 Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [] 
  []
 
 [13
+
+]
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[] 
+ []
+
+[14
+
+]
+LaTeX Font Info:    Font shape `OML/neohellenic/m/n' will be
+(Font)              scaled to size 6.12503pt on input line 239.
+LaTeX Font Info:    Font shape `T1/phv/m/it' in size <5> not available
+(Font)              Font shape `T1/phv/m/sl' tried instead on input line 239.
+
+Overfull \hbox (1.272pt too wide) has occurred while \output is active
+[] 
+ []
+
+[15
 
  <C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/beamer/beamericonb
 ook.pdf> <C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.9/tex/latex/beamer/bea
@@ -2717,7 +2731,7 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 [] 
  []
 
-[14
+[16
 
 
 ]
@@ -2732,20 +2746,20 @@ Overfull \hbox (1.272pt too wide) has occurred while \output is active
 
  (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: EE77E6C46E492E1BF2130FB9E35391C0;375.
+(rerunfilecheck)             Checksum: D3F3DCD0D2A2C0F9AF2A6359483B4D08;467.
  ) 
 Here is how much of TeX's memory you used:
- 26907 strings out of 479663
- 529485 string characters out of 2863600
- 847981 words of memory out of 3000000
- 43160 multiletter control sequences out of 15000+200000
+ 26919 strings out of 479663
+ 529601 string characters out of 2863600
+ 847982 words of memory out of 3000000
+ 43167 multiletter control sequences out of 15000+200000
  467893 words of font info for 172 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  125i,14n,126p,462b,801s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\ruben\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/public/cmbright/dpi
-482\cmbrmi10.pk> <C:\Users\ruben\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/publi
-c/cmbright/dpi660\cmbrmi10.pk>{C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.9
-/fonts/enc/dvips/gfsneohellenic/neohellenicmath.enc}{C:/Users/ruben/AppData/Loc
+482\cmbrmi10.pk>{C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvi
+ps/gfsneohellenic/neohellenicmath.enc} <C:\Users\ruben\AppData\Local\MiKTeX\2.9
+\fonts/pk/ljfour/public/cmbright/dpi660\cmbrmi10.pk>{C:/Users/ruben/AppData/Loc
 al/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Users/ruben/AppData/Loca
 l/Programs/MiKTeX 2.9/fonts/type1/public/gfsneohellenic/GFSNeohellenic-Italic.p
 fb><C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfont
@@ -2760,9 +2774,9 @@ okman/ubkl8a.pfb><C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 urw/helvetic/uhvb8a.pfb><C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.9/fonts
 /type1/urw/helvetic/uhvr8a.pfb><C:/Users/ruben/AppData/Local/Programs/MiKTeX 2.
 9/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on main.pdf (14 pages, 373201 bytes).
+Output written on main.pdf (16 pages, 378444 bytes).
 PDF statistics:
- 316 PDF objects out of 1000 (max. 8388607)
- 43 named destinations out of 1000 (max. 500000)
- 61557 words of extra memory for PDF output out of 61914 (max. 10000000)
+ 334 PDF objects out of 1000 (max. 8388607)
+ 48 named destinations out of 1000 (max. 500000)
+ 61565 words of extra memory for PDF output out of 61914 (max. 10000000)
 
